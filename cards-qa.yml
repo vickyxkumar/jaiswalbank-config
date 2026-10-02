@@ -1,7 +1,7 @@
 build:
     version: "2.0"
 cards:
-  message: "Welcome to JaiswalBank cards related qa APIs "
+  message: "Welcome to JaiswalBank cards related quality assurance APIs "
   contactDetails:
     name: "Vicky Kumar - QA Lead"
     email: "vicky@jaiswalbank.com"
