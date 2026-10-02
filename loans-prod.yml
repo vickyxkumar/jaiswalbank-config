@@ -1,7 +1,7 @@
 build:
     version: "3.0"
 loans:
-  message: "Welcome to JaiswalBank loans related production APIs "
+  message: "Welcome to JaiswalBank loans related prod APIs "
   contactDetails:
     name: "Vicky Kumar - Owner"
     email: "vicky@jaiswalbank.com"
