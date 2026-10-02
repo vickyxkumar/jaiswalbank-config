@@ -2,7 +2,7 @@ build:
     version: "3.0"
 
 accounts:
-  message: "Welcome to JaiswalBank accounts related prodution APIs "
+  message: "Welcome to JaiswalBank accounts related prod APIs "
   contactDetails:
     name: "Vicky Kumar - Owner"
     email: "{cipher}b12748437a3a666fd63768730bb604d53ec4d8700b5063fb9d961f5977220c9bb8281b3b3f77f6674b22863b089676be"
