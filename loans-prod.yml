@@ -1,0 +1,10 @@
+build:
+    version: "3.0"
+loans:
+  message: "Welcome to JaiswalBank loans related production APIs "
+  contactDetails:
+    name: "Vicky Kumar - Owner"
+    email: "vicky@jaiswalbank.com"
+  onCallSupport:
+    - (91) 83495-73483
+    - (91) 75423-134

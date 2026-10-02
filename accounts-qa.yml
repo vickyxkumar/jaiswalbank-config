@@ -1,0 +1,11 @@
+build:
+    version: "2.0"
+
+accounts:
+  message: "Welcome to JaiswalBank accounts related QA APIs "
+  contactDetails:
+    name: "Vicky Kumar - QA"
+    email: "vicky@jaiswalbank.com"
+  onCallSupport:
+    - (91) 83495-73483
+    - (91) 75423-13453

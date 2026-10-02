@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to JaiswalBank cards related local APIs "
+  contactDetails:
+    name: "Vicky Kumar - Developer"
+    email: "vicky@jaiswalbank.com"
+  onCallSupport:
+    - (91) 83495-73483
+    - (91) 75423-13453
