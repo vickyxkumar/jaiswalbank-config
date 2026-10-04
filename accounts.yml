@@ -2,7 +2,7 @@ build:
     version: "3.0"
 
 accounts:
-  message: "Welcome to JaiswalBank accounts related local APIs "
+  message: "Welcome to JaiswalBank accounts related docker APIs."
   contactDetails:
     name: "Vicky Kumar - Developer"
     email: "vicky@jaiswalbank.com"
