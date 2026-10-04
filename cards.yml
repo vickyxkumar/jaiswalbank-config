@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to JaiswalBank cards related local APIs "
+  message: "Welcome to JaiswalBank cards related docker APIs."
   contactDetails:
     name: "Vicky Kumar - Developer"
     email: "vicky@jaiswalbank.com"
