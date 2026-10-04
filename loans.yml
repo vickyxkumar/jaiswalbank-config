@@ -2,7 +2,7 @@ build:
     version: "1.0"
 
 loans:
-  message: "Welcome to JaiswalBank loans related local APIs "
+  message: "Welcome to JaiswalBank loans related docker APIs."
   contactDetails:
     name: "Vicky Kumar - Developer"
     email: "vicky@jaiswalbank.com"
